@@ -1,5 +1,5 @@
 ---
-- name: Configuring Apache Web Server
+- name: Configuring nginx Web Server
   hosts: linux_servers
   become: true
   tasks:
